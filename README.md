@@ -21,5 +21,5 @@ In der heutigen Stunde haben wir unsere Projektfindungsphase hestartet. Das bede
 ### Mi, 16.12.2020<a name="2"></a>
 Heute haben wir entschieden, was für ein Projekt wir machen wollen und mit welchem Programm. Wir wollen ein 2D Jump and Run Spiel machen. Außerdem haben wir uns Gedanken zum Design gemacht, wissen jedoch noch nicht genau, wie sich das umsetzen lässt.
 
-### Fr, 08.01.2020<a name="2"></a>
+### Di, 19.01.2020<a name="2"></a>
 Damit wir eine Idee davon bekommen, wie ein Jump and Run Spiel in Greenfoot programmiert werden kann, haben wie uns Videos zu diesem Thema angeguckt. Dabei haben wir auch Erfahrungsberichte von anderen, die bereits solch ein Projekt gemacht haben, eingebunden und wollen nun mit unserem eigenen Projekt beginnen. Außerdem haben wir den Blog aufbereitet und die Stichpunkte ausgeschrieben
