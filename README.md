@@ -21,7 +21,7 @@ In der heutigen Stunde haben wir unsere Projektfindungsphase gestartet. Das bede
 ### Mi, 16.12.2020<a name="2"></a>
 Heute haben wir entschieden, was für ein Projekt wir machen wollen und mit welchem Programm. Wir wollen ein 2D Jump and Run Spiel machen. Außerdem haben wir uns Gedanken zum Design gemacht, wissen jedoch noch nicht genau, wie sich das umsetzen lässt.
 
-### Do,14.01.2021<a name="2"></a>
+### Do, 14.01.2021<a name="2"></a>
 Am heutigen Tag haben wir uns das Programm Greenfoot heruntergeladen und uns dort umgesehen, was es für Projektmöglickeiten gibt und wie sie dort aufgebaut werden. Des Weiteren haben wir uns erste Einführungen angeschaut und erste Programmierungenversuche gestartet, um uns an das neue Programm zu gewöhnen. Auch nach der Erkundung das Programms wollen wir weiterhin mit Greefoot arbeiten, um unser Prjekt für das zweite Halbjahr zu erstellen.
 
 ### Di, 26.01.2021<a name="2"></a>
