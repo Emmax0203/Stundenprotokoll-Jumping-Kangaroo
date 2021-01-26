@@ -7,7 +7,7 @@ Schuljahr 2020/21
 ## Inhalt
 
 ### Dezember
-[Freitag, der 11.12.2020](#1) 
+[Freitag, der 11.12.2020](#1)
 [Mittwoch, der 16.12.2020](#2)  
 
 ## Januar
