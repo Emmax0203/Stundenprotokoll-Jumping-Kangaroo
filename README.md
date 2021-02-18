@@ -17,6 +17,8 @@ Schuljahr 2020/21
 [Dienstag, der 26.01.2021](#5)
 
 [Donnerstag, der 04.02.2021](#6)
+[Mittwoch, der 11.02.2021](#7)
+[Donnerstag, der 18.02.2021](#8)
 
 ### Fr, 11.12.2020<a name="1"></a>
 In der heutigen Stunde haben wir unsere Projektfindungsphase gestartet. Das bedeutet, wir haben uns überlegt, was für ein Projekt wir machen wollen. Da waren wir uns sicher, dass wir ein vom Inhalt her anderes Projekt erstellen wollen, als vorher. Außerdem waren wir uns sicher, dass wir auch ein anderes Programm benutzen wollen, damit unser zweites Projekt einen höheren Anspruch hat. 
