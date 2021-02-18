@@ -33,3 +33,6 @@ Damit wir eine Idee davon bekommen, wie ein Jump and Run Spiel in Greenfoot prog
 
 ### Do, 04.02.2021<a name="6"></a>
 Heute haben wir uns weiter mit Greenfoot auseinandergesetzt und eine erste richtige Welt erstellt. Hierbei ist es uns auch gelungen, unsere Figur im Spiel in alle Richtungen gehen zu lassen und diese mit den Richtungspfeilen auf der Tastatur zu steuern. 
+
+### Do, 18.02.2021<a name="7"></a>
+Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind.
