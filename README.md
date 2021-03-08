@@ -43,3 +43,9 @@ Wir haben uns weitere Tuuprials und Einführungen zu Greenfoot angesehen, damit 
 
 ### Do, 18.02.2021<a name="8"></a>
 Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind.
+
+### Di, 02.03.2021
+In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Turtorial von Greenfoot angeguckt und geguckt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedcoh noch aus.
+
+### Do, 04.03.2021
+Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hiergür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Ausßerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll. 
