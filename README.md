@@ -57,3 +57,4 @@ Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. 
 
 ### Fr, 05.03.2021<a name="11"></a>
 Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
+
