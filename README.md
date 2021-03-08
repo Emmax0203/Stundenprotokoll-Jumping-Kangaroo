@@ -8,7 +8,6 @@ Schuljahr 2020/21
 
 ### Dezember
 [Freitag, der 11.12.2020](#1)
-
 [Mittwoch der 16.12.2020](#2)
 
 ## Januar  
@@ -16,9 +15,15 @@ Schuljahr 2020/21
 [Dienstag, der 19.01.2021](#4)                    
 [Dienstag, der 26.01.2021](#5)
 
+## Februar
 [Donnerstag, der 04.02.2021](#6)
 [Mittwoch, der 11.02.2021](#7)
 [Donnerstag, der 18.02.2021](#8)
+
+## März
+[Dienstag, der 02.03.2021](#9)
+[Donnerstag, der 04.03.2021](#10)
+[Donnerstag, der 05.03.2021](#11)
 
 ### Fr, 11.12.2020<a name="1"></a>
 In der heutigen Stunde haben wir unsere Projektfindungsphase gestartet. Das bedeutet, wir haben uns überlegt, was für ein Projekt wir machen wollen. Da waren wir uns sicher, dass wir ein vom Inhalt her anderes Projekt erstellen wollen, als vorher. Außerdem waren wir uns sicher, dass wir auch ein anderes Programm benutzen wollen, damit unser zweites Projekt einen höheren Anspruch hat. 
@@ -44,8 +49,11 @@ Wir haben uns weitere Tuuprials und Einführungen zu Greenfoot angesehen, damit 
 ### Do, 18.02.2021<a name="8"></a>
 Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind.
 
-### Di, 02.03.2021
+### Di, 02.03.2021<a name="9"></a>
 In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Turtorial von Greenfoot angeguckt und geguckt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedcoh noch aus.
 
-### Do, 04.03.2021
+### Do, 04.03.2021<a name="10"></a>
 Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hiergür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Ausßerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll. 
+
+### Fr, 05.03.2021<a name="11"></a>
+Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
