@@ -31,6 +31,14 @@ Schuljahr 2020/21
 
 [Donnerstag, der 05.03.2021](#11)
 
+[Dienstag, der 09.03.2021](#12)
+
+[Donnerstag, der 11.03.2021](#13)
+
+[Freitag, der 12.03.2021](#14)
+
+[Dienstag, der 16.03.2021](#15)
+
 ### Fr, 11.12.2020<a name="1"></a>
 In der heutigen Stunde haben wir unsere Projektfindungsphase gestartet. Das bedeutet, wir haben uns überlegt, was für ein Projekt wir machen wollen. Da waren wir uns sicher, dass wir ein vom Inhalt her anderes Projekt erstellen wollen, als vorher. Außerdem waren wir uns sicher, dass wir auch ein anderes Programm benutzen wollen, damit unser zweites Projekt einen höheren Anspruch hat. 
 
@@ -64,3 +72,13 @@ Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. 
 ### Fr, 05.03.2021<a name="11"></a>
 Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
 
+### Di, 09.03.2021
+
+### Do, 11.03.2021
+Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das erstellen dieser hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
+
+### Fr, 12.03.2021
+In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowohl laufen als auch springen kann, a uns das vorher noch nicht gelungen ist. Dies haben wir dann jedoch geschafft und konnten auch eine maximale Springhöhe festlegen. 
+
+### Di, 16.03.2021
+Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
