@@ -72,13 +72,13 @@ Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. 
 ### Fr, 05.03.2021<a name="11"></a>
 Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
 
-### Di, 09.03.2021
+### Di, 09.03.2021<a name="12"></a>
 
-### Do, 11.03.2021
+### Do, 11.03.2021<a name="13"></a>
 Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das erstellen dieser hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
 
-### Fr, 12.03.2021
+### Fr, 12.03.2021<a name="14"></a>
 In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowohl laufen als auch springen kann, a uns das vorher noch nicht gelungen ist. Dies haben wir dann jedoch geschafft und konnten auch eine maximale Springhöhe festlegen. 
 
-### Di, 16.03.2021
+### Di, 16.03.2021<a name="15"></a>
 Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
