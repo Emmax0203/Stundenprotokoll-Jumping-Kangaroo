@@ -76,10 +76,10 @@ Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da
 In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowohl laufen als auch springen kann, a uns das vorher noch nicht gelungen ist. Dies haben wir dann jedoch geschafft und konnten auch eine maximale Springhöhe festlegen.
 
 ### Do, 11.03.2021<a name="13"></a>
-Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das Einfügen einer Platform hat auch bereits geklapp, sowie auch das Festlegen einer Größe dieser. Das Erkennen dieser als festen Boden und somit das darauf Landen und nicht von unten Gegenspringen hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
+Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das Einfügen einer Platform hat auch bereits geklappt, sowie auch das Festlegen einer Größe dieser. Das Erkennen dieser als festen Boden und somit das darauf Landen und nicht von unten Gegenspringen hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
 
 ### Fr, 12.03.2021<a name="14"></a>
-
+An diesem Tag haben wir an unseren Platformen weitergarbeitet. Dabei haben wir erreicht, dass wir zwar ansatzweise auf der Platform landen können, jedoch in diese ein Stück weit hineinsinkt. Daher kann die Figuer auch noch nicht ordentloch von der Platform wieder abspringen. Außerdem kann sie auch von unten auf die Platform springen. 
 
 ### Di, 16.03.2021<a name="15"></a>
 Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen und danach wieder abspringen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
