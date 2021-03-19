@@ -64,21 +64,22 @@ Wir haben uns weitere Tuuprials und Einführungen zu Greenfoot angesehen, damit 
 Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Dafür mussten wir eine Schwerkraft für die Welt festlegen und diese auch auf den Actor beziehen. Des Weiteren ist die Grundlage für eine Funktion "springen" eine Funktion zum Fallen, welche wir zuerst programmieren mussten. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind. Jedoch kann nur eine Figur springen und eine laufen, beides bei einer Figur ist noch nicht möglich.
 
 ### Di, 02.03.2021<a name="9"></a>
-In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Turtorial von Greenfoot angeguckt und geguckt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedcoh noch aus.
+In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Turtorial von Greenfoot angeguckt und geguckt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedoch noch aus. Allerdings werden wir uns zuerst auf das Verbinden von springen und laufen in einer Figur konzentrieren.
 
 ### Do, 04.03.2021<a name="10"></a>
-Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hiergür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Außerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll. 
+Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hierfür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Außerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll und zwar: eine Wald-/ Berglandschaft und ein Känguru. 
 
 ### Fr, 05.03.2021<a name="11"></a>
 Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
 
 ### Di, 09.03.2021<a name="12"></a>
+In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowohl laufen als auch springen kann, a uns das vorher noch nicht gelungen ist. Dies haben wir dann jedoch geschafft und konnten auch eine maximale Springhöhe festlegen.
 
 ### Do, 11.03.2021<a name="13"></a>
-Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das erstellen dieser hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
+Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegen kann. Das Einfügen einer Platform hat auch bereits geklapp, sowie auch das Festlegen einer Größe dieser. Das Erkennen dieser als festen Boden und somit das darauf Landen und nicht von unten Gegenspringen hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
 
 ### Fr, 12.03.2021<a name="14"></a>
-In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowohl laufen als auch springen kann, a uns das vorher noch nicht gelungen ist. Dies haben wir dann jedoch geschafft und konnten auch eine maximale Springhöhe festlegen. 
+
 
 ### Di, 16.03.2021<a name="15"></a>
 Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
