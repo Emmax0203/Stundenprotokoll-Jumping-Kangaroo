@@ -61,13 +61,13 @@ Heute haben wir uns weiter mit Greenfoot auseinandergesetzt und eine erste richt
 Wir haben uns weitere Tuuprials und Einführungen zu Greenfoot angesehen, damit wir eine feste Idee bekommen, was sich mit Greenfoot umsetzten lässt und was wir an unserer Projektidee ändern müssen oder sollten. Außerdem haben wir versucht weiterer Personen in unsere Welt einzufügen und uns noch genauer mit der Programmierweise in Greenfoot auseinandergesetzt.
 
 ### Do, 18.02.2021<a name="8"></a>
-Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind.
+Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns heute auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Dafür mussten wir eine Schwerkraft für die Welt festlegen und diese auch auf den Actor beziehen. Des Weiteren ist die Grundlage für eine Funktion "springen" eine Funktion zum Fallen, welche wir zuerst programmieren mussten. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind. Jedoch kann nur eine Figur springen und eine laufen, beides bei einer Figur ist noch nicht möglich.
 
 ### Di, 02.03.2021<a name="9"></a>
 In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Turtorial von Greenfoot angeguckt und geguckt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedcoh noch aus.
 
 ### Do, 04.03.2021<a name="10"></a>
-Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hiergür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Ausßerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll. 
+Heute haben wir uns genauere Gedanken zu der Gestaltung unseres Spiels gemacht. Hiergür haben wir uns einen Hintergrund aus dem Internet rausgesucht und diesen bei Greenfoot eingefügt. Außerdem haben wir entschieden, was für eine Umgebung es geben soll und welches Tier unser Charakter sein soll. 
 
 ### Fr, 05.03.2021<a name="11"></a>
 Am heutigen Tag haben wir versucht, dass eine Figur laufen und springen kann, da bisher die Figuren nur eins jeweils konnten. Das hat jedoch noch nicht funktioniert, da sich dann beide Figuren nicht mehr bewegen können. Nur das Springen funktioniert weiterhin. 
