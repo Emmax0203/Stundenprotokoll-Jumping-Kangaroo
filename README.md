@@ -82,4 +82,10 @@ Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die
 
 
 ### Di, 16.03.2021<a name="15"></a>
-Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
+Heute haben wir uns wieder mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figut landen und danach wieder abspringen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch durch die Platform durchspringen kann.
+
+### Do, 18.03.2021
+Heute haben wir es geschafft, dass man nicht nur auf die Platten heraufspringen kann, sondern auch nicht von unten hindurch kann, da man sich sonst den Kopf stößt und ieder auf den Boden runterfällt. 
+
+### Fr, 19.03.2021
+Nachdem die Platformen jetzt vollständig funktionieren, haben wir uns jetzt nochmal mit Münzen oder ähnlichen Sammelstücken beschäftigt. Bei unserem Spiel sollen nämlich Münzen eingesammelt werden, um das Level zu vollenden. 
