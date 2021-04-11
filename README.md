@@ -1,4 +1,4 @@
-# Arbeitsprotokoll2
+# Stundenprotokoll - Jumping Kangaroo
 von Emily Müller-Teusler und Maxine Motzkus                                                                              
 Stormarnschule Ahrensburg                                                                         
 Klasse 12b                                                                               
