@@ -81,7 +81,7 @@ Wir haben uns weitere Tutorials und Einführungen zu Greenfoot angesehen, damit 
 ### Do, 18.02.2021<a name="8"></a>
 Am heutigen Tag haben wir uns weiter mit den Funktionen von Greenfoot beschäftigt. Dabei haben wir uns auf das Springen konzentriert und es geschafft, dass unsere Figuren Springen und Laufen können. Dafür mussten wir eine Schwerkraft für die Welt festlegen und diese auch auf den Actor beziehen. Des Weiteren ist die Grundlage für eine Funktion "springen" eine Funktion zum Fallen, welche wir zuerst programmieren mussten. Außerdem hat es auch funktioniert, dass die Figuren ab einer gewissen Linie sich nicht mehr bewegen, wenn sie heruntergefallen sind. Jedoch kann nur eine Figur springen und eine laufen, beides bei einer Figur ist noch nicht möglich.
 
-<img width="150" height="100" src="../Bilder/Screenshot1.1.png">
+<img width="150" height="100" src="../Screenshot1.1.png">
 
 ### Di, 02.03.2021<a name="9"></a>
 In der heutigen Stunde haben wir uns damit beschäftigt, wie man Münzen zum sammeln in das Spiel einbauen könnte. Hierzu haben wir uns ein Tutorial von Greenfoot angeguckt und überlegt, wie sich das bei uns umsetzen lässt. Die Umsetzung an sich steht jedoch noch aus. Allerdings werden wir uns zuerst auf das Verbinden von springen und laufen in einer Figur konzentrieren.
