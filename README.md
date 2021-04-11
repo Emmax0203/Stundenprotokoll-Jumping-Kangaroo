@@ -12,8 +12,10 @@ Schuljahr 2020/21
 [Mittwoch der 16.12.2020](#2)
 
 ## Januar  
-[Donnerstag, der 14.01.2021](#3)                        
-[Dienstag, der 19.01.2021](#4)                    
+[Donnerstag, der 14.01.2021](#3)       
+
+[Dienstag, der 19.01.2021](#4)       
+
 [Dienstag, der 26.01.2021](#5)
 
 ## Februar
