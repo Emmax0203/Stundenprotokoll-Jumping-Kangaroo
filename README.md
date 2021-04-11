@@ -89,3 +89,18 @@ Heute haben wir es geschafft, dass man nicht nur auf die Platten heraufspringen 
 
 ### Fr, 19.03.2021<a name="17"></a>
 Nachdem die Platformen jetzt vollständig funktionieren, haben wir uns jetzt nochmal mit Münzen oder ähnlichen Sammelstücken beschäftigt. Bei unserem Spiel sollen nämlich Münzen eingesammelt werden, um das Level zu vollenden. 
+
+### Di, 23.03.2021<a name="18"></a>
+Das Motiv für unsere Münzen steht seit heute. Wir haben uns für Kirschen entschieden. Diese kann das Känguru bereits einsammeln und die Kirschen werden danach aus der Welt entfernt. Unser Ziel für die nächsten Stundne ist es, eine Varibale zu erstellen, die die Anzahl der eingesammelten Kirschen angibt und als Score sichtbar angezeigt wird. Hierzu müssen wir also sowohl eine Verknüpfung zwischen der Variable, als auch eine Verbindung zur Welt, in der der Score angezeigt werden soll, erstellen.
+
+### Do, 25.03.2021<a name="19"></a>
+Nach unserem Erfolg in der letzten Stunde haben wir heute die Variable "eatenCherries" sowohl in unsere Welt, als auch in unser Känguru eingefügt. Des Weiteren haben wir zur if-Funktion beim Berühren einer Kirsche das Verändern der Variable hinzugefügt. Ob das funktioniert können wir noch nicht sehen, da der Score bis jetzt noch nicht in der Welt angezeigt wird. Dieses Problem gilt es in der nächsten Stund zu lösen.
+
+### Fr, 26.03.2021<a name="20"></a>
+Das letzte Problem mit der Variable, mit dem Score, konnten wir heute lösen. Jetzt wird der Score und die Variable in der oberen linken Ecke angezeigt. Somit funktioniert jetzt das Essen der Kirschen, das Zählen dieser und auch das Anzeigen. Bei einer gewissen Anzahl soll das Spiel gewonnen sein, daher brauchen wir noch eine Art EndScreen, nach einsammelmn aller Kirschen. 
+
+### Sa, 03.04.2021<a name="21"></a>
+Mit Hilfe der zählbaren Variable und einem weiteren Screen, konnten wur festlegen, dass dieser neue Screen, der Endscreen, bei erreichen von mehr als zwei Kirschen aktiviert wird und die vorherige Welt ersetzt. Außerdem kamen wir auf die Idee, einen Anfangsscreen vor Beginn des Spiels zu erstellen. Von diesem kommt man mit Hilfe eines Tastendrucks zum Spiel und bekommt erklärt, was man in dem Spiel zu tun hat.
+
+### So, 11.04.2021<a name="22"></a>
+Heute haben wir den letzten Feinschliff an unserem Projekt, der Projektseite und unserem Stundenprotokoll vorgenommen. Wir haben nun alle Platformen so hinzugefügt, dass es uns gefällt und die Anzahl der Kirschen stark erhöht, sodass man nun zum Gewinnen sieben Kirschen einsammeln muss. Damit war unser Spiel dann vollendet. Daraufhin haben wir unser Protokoll und die Projektseite Korrektur gelesen und verfeinert.
