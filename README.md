@@ -41,21 +41,21 @@ Schuljahr 2020/21
 
 [Dienstag, der 16.03.2021](#15)
 
-[Dienstag, der 18.03.2021](#16)
+[Donnerstag, der 18.03.2021](#16)
 
-[Dienstag, der 19.03.2021](#17)
+[Freitag, der 19.03.2021](#17)
 
 [Dienstag, der 23.03.2021](#18)
 
-[Dienstag, der 25.03.2021](#19)
+[Donnerstag, der 25.03.2021](#19)
 
-[Dienstag, der 26.03.2021](#20)
+[Freitag, der 26.03.2021](#20)
 
 ## April
 
-[Dienstag, der 03.04.2021](#21)
+[Samsatg, der 03.04.2021](#21)
 
-[Dienstag, der 11.04.2021](#22)
+[Sonntag, der 11.04.2021](#22)
 
 ### Fr, 11.12.2020<a name="1"></a>
 In der heutigen Stunde haben wir unsere Projektfindungsphase gestartet. Das bedeutet, wir haben uns überlegt, was für ein Projekt wir machen wollen. Da waren wir uns sicher, dass wir ein vom Inhalt her anderes Projekt erstellen wollen, als vorher. Außerdem waren wir uns sicher, dass wir auch ein anderes Programm benutzen wollen, damit unser zweites Projekt einen höheren Anspruch hat. 
