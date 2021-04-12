@@ -115,6 +115,8 @@ Nachdem die Platformen jetzt vollständig funktionieren, haben wir uns jetzt noc
 ### Di, 23.03.2021<a name="18"></a>
 Das Motiv für unsere Münzen steht seit heute. Wir haben uns für Kirschen entschieden. Diese kann das Känguru bereits einsammeln und die Kirschen werden danach aus der Welt entfernt. Unser Ziel für die nächsten Stunden ist es, eine Variable zu erstellen, die die Anzahl der eingesammelten Kirschen angibt und als Score sichtbar angezeigt wird. Hierzu müssen wir also sowohl eine Verknüpfung zwischen der Variable, als auch eine Verbindung zur Welt, in der der Score angezeigt werden soll, erstellen.
 
+<img width="150" height="100" src="../main/Screenshot2.2.png">
+
 ### Do, 25.03.2021<a name="19"></a>
 Nach unserem Erfolg in der letzten Stunde haben wir heute die Variable "eatenCherries" sowohl in unsere Welt, als auch in unser Känguru eingefügt. Des Weiteren haben wir zur if-Funktion beim Berühren einer Kirsche das Verändern der Variable hinzugefügt. Ob das funktioniert können wir noch nicht sehen, da der Score bis jetzt noch nicht in der Welt angezeigt wird. Dieses Problem gilt es in der nächsten Stunde zu lösen.
 
