@@ -101,13 +101,13 @@ In der heutigen Stunde haben wir uns damit beschäftigt, dass unsere Figur sowoh
 ### Do, 11.03.2021<a name="13"></a>
 Wir haben uns angeguckt, wie man Platformen erstellen kann und wie genau man die Größe dieser festlegt. Das Einfügen einer Platform hat auch bereits geklappt, sowie auch das Festlegen einer Größe dieser. Das Erkennen dieser als festen Boden und somit das darauf Landen und nicht von unten Gegenspringen hat jedoch noch nicht funktioniert und muss noch ausgearbeitet werden. 
 
+<img width="150" height="100" src="../main/Screenshot3.png">
+
 ### Fr, 12.03.2021<a name="14"></a>
 An diesem Tag haben wir an unseren Platformen weitergarbeitet. Dabei haben wir erreicht, dass wir zwar ansatzweise auf der Platform landen können, jedoch in diese ein Stück weit hineinsinken. Daher kann die Figuer auch noch nicht ordentlich von der Platform wieder abspringen. Außerdem kann sie auch von unten auf die Platform springen. 
 
 ### Di, 16.03.2021<a name="15"></a>
 Heute haben wir uns weiterhin mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figur landen und danach wieder abspringen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch von unten durch die Platform durchspringen kann.
-
-<img width="150" height="100" src="../main/Screenshot3.png">
 
 ### Do, 18.03.2021<a name="16"></a>
 Heute haben wir es geschafft, dass man nicht nur auf die Platten heraufspringen kann, sondern auch nicht von unten hindurch, da man sich sonst den Kopf stößt und wieder auf den Boden herunterfällt. 
