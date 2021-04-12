@@ -107,6 +107,8 @@ An diesem Tag haben wir an unseren Platformen weitergarbeitet. Dabei haben wir e
 ### Di, 16.03.2021<a name="15"></a>
 Heute haben wir uns weiterhin mit dem Erstellen von Platformen beschäftigt. Hierfür haben wir uns nochmal ein Tutorial angeguckt und es geschafft, eine Platform zu erstellen, auf welcher unsere Figur landen und danach wieder abspringen kann. Dies klappt jedoch noch nicht ganz, da die Figur noch von unten durch die Platform durchspringen kann.
 
+<img width="150" height="100" src="../main/Screenshot3.png">
+
 ### Do, 18.03.2021<a name="16"></a>
 Heute haben wir es geschafft, dass man nicht nur auf die Platten heraufspringen kann, sondern auch nicht von unten hindurch, da man sich sonst den Kopf stößt und wieder auf den Boden herunterfällt. 
 
