@@ -75,6 +75,8 @@ Damit wir eine Idee davon bekommen, wie ein Jump and Run Spiel in Greenfoot prog
 ### Do, 04.02.2021<a name="6"></a>
 Heute haben wir uns weiter mit Greenfoot auseinandergesetzt und eine erste richtige Welt erstellt. Hierbei ist es uns auch gelungen, unsere Figur im Spiel in alle Richtungen gehen zu lassen und diese mit den Richtungspfeilen auf der Tastatur zu steuern. 
 
+<img width="150" height="100" src="../main/Screenshot2.1.png">
+
 ### Mi, 11.02.2021<a name="7"></a>
 Wir haben uns weitere Tutorials und Einführungen zu Greenfoot angesehen, damit wir eine festere Idee bekommen, was sich mit Greenfoot umsetzten lässt und was wir an unserer Projektidee ändern müssen oder sollten. Außerdem haben wir versucht weitere Personen in unsere Welt einzufügen und uns noch genauer mit der Programmierweise in Greenfoot auseinandergesetzt.
 
