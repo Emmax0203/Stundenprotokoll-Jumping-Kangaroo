@@ -109,6 +109,8 @@ Heute haben wir uns weiterhin mit dem Erstellen von Platformen beschäftigt. Hie
 ### Do, 18.03.2021<a name="16"></a>
 Heute haben wir es geschafft, dass man nicht nur auf die Platten heraufspringen kann, sondern auch nicht von unten hindurch, da man sich sonst den Kopf stößt und wieder auf den Boden herunterfällt. 
 
+<img width="150" height="100" src="../main/Screenshot2.3.png">
+
 ### Fr, 19.03.2021<a name="17"></a>
 Nachdem die Platformen jetzt vollständig funktionieren, haben wir uns jetzt nochmal mit Münzen oder ähnlichen Sammelstücken beschäftigt. Bei unserem Spiel sollen nämlich Münzen eingesammelt werden, um das Level zu vollenden. 
 
