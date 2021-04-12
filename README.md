@@ -133,6 +133,8 @@ Mit Hilfe der zählbaren Variable und einem weiteren Screen, konnten wir festleg
 
 <img width="150" height="100" src="../main/Screenshot5.png">
 <img width="150" height="100" src="../main/Screenshot6.png">
+<img width="150" height="100" src="../main/Screenshot7.png">
+<img width="150" height="100" src="../main/Screenshot8.png">
 
 
 ### So, 11.04.2021<a name="22"></a>
@@ -140,4 +142,5 @@ Heute haben wir den letzten Feinschliff an unserem Projekt, der Projektseite und
 
 <img width="150" height="100" src="../main/Screenshot4.png">
 <img width="150" height="100" src="../main/Screenshot4.1.png">
+<img width="150" height="100" src="../main/Screenshot9.png">
 
