@@ -128,6 +128,8 @@ Nach unserem Erfolg in der letzten Stunde haben wir heute die Variable "eatenChe
 ### Fr, 26.03.2021<a name="20"></a>
 Das letzte Problem mit der Variable, mit dem Score, konnten wir heute lösen. Jetzt wird der Score und die Variable in der oberen linken Ecke angezeigt. Somit funktioniert jetzt das Essen der Kirschen, das Zählen dieser und auch das Anzeigen. Bei einer gewissen Anzahl soll das Spiel gewonnen sein, daher brauchen wir noch eine Art EndScreen, der nach dem Einsammeln aller Kirschen erscheint. 
 
+<img width="150" height="100" src="../main/Screenshot4.1.png">
+
 ### Sa, 03.04.2021<a name="21"></a>
 Mit Hilfe der zählbaren Variable und einem weiteren Screen, konnten wir festlegen, dass dieser neue Screen, der Endscreen, beim Erreichen von mehr als zwei Kirschen aktiviert wird und die vorherige Welt ersetzt. Außerdem kamen wir auf die Idee, einen Anfangsscreen vor Beginn des Spiels zu erstellen. Von diesem kommt man mit Hilfe eines Tastendrucks zum Spiel und bekommt erklärt, was man in dem Spiel zu tun hat.
 
