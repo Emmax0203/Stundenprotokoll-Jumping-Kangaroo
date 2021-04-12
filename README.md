@@ -131,6 +131,10 @@ Das letzte Problem mit der Variable, mit dem Score, konnten wir heute lösen. Je
 ### Sa, 03.04.2021<a name="21"></a>
 Mit Hilfe der zählbaren Variable und einem weiteren Screen, konnten wir festlegen, dass dieser neue Screen, der Endscreen, beim Erreichen von mehr als zwei Kirschen aktiviert wird und die vorherige Welt ersetzt. Außerdem kamen wir auf die Idee, einen Anfangsscreen vor Beginn des Spiels zu erstellen. Von diesem kommt man mit Hilfe eines Tastendrucks zum Spiel und bekommt erklärt, was man in dem Spiel zu tun hat.
 
+<img width="150" height="100" src="../main/Screenshot5.png">
+<img width="150" height="100" src="../main/Screenshot6.png">
+
+
 ### So, 11.04.2021<a name="22"></a>
 Heute haben wir den letzten Feinschliff an unserem Projekt, der Projektseite und unserem Stundenprotokoll vorgenommen. Wir haben nun alle Platformen so hinzugefügt, dass es uns gefällt und die Anzahl der Kirschen stark erhöht, sodass man zum Gewinnen sieben Kirschen einsammeln muss. Damit ist unser Spiel jetzt vollendet. Daraufhin haben wir unser Protokoll und die Projektseite Korrektur gelesen und verfeinert.
 
